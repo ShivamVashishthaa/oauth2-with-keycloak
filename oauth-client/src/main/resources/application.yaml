@@ -1,0 +1,31 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: demo-oauth
+
+  security:
+    oauth2:
+      client:
+        registration:
+          oauth2-authorization-code-flow:
+            client-id: oauth2-authorization-code-flow
+            client-secret: OJRR6r1q49wYkpWzta5vUkUM2sJSBESJ
+            scope:
+              - openid
+              - profile
+              - roles
+              - email
+            authorization-grant-type: authorization_code
+            redirect-uri: http://localhost:8081/login/oauth2/code/oauth2-authorization-code-flow
+        provider:
+          oauth2-authorization-code-flow:
+            issuer-uri: http://localhost:8085/realms/oauth2
+
+logging:
+  level:
+    org:
+      springframework:
+        security:
+          oauth2: DEBUG
