@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5600965-e2f1-4b65-a48e-7eed17d31265" name="Changes" comment="" />
+    <list default="true" id="f5600965-e2f1-4b65-a48e-7eed17d31265" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine-to-machine/oauth-resource/src/main/java/com/oauthresource/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/machine-to-machine/oauth-resource/src/main/java/com/oauthresource/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine-to-machine/pure-client/src/main/java/com/pureclient/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/machine-to-machine/pure-client/src/main/java/com/pureclient/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine-to-machine/pure-client/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/machine-to-machine/pure-client/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,67 +30,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ShivamVashishthaa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ShivamVashishthaa/oauth2-with-keycloak.git",
+    "accountId": "fd9a6151-e95e-437e-8559-3857c1538600"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.6679032047981179E-223" />
-      <entry key="S5" value="8.574133584306395E-90" />
-      <entry key="S10" value="3.89063945945175E-45" />
-      <entry key="S30" value="3.604562844166027E-15" />
-      <entry key="S60" value="1.5982836350983626E-7" />
-      <entry key="M2" value="0.0013900302874627593" />
-      <entry key="M5" value="0.4982015515615016" />
-      <entry key="M10" value="5.591997486332653" />
-      <entry key="M15" value="14.76731196339705" />
-      <entry key="M30" value="44.88053841934206" />
-      <entry key="H1" value="83.64015593526159" />
-      <entry key="H2" value="116.35368002750494" />
-      <entry key="H4" value="137.9088194040274" />
-      <entry key="D1" value="159.29473913387727" />
-      <entry key="W1" value="163.31847810771507" />
+      <entry key="MS100" value="5.755499536035096E-250" />
+      <entry key="MS500" value="2.441597897626585E-50" />
+      <entry key="S2" value="6.644190602034748E-13" />
+      <entry key="S5" value="2.0454024656424757E-5" />
+      <entry key="S10" value="0.00662500592561718" />
+      <entry key="S30" value="0.3564922085455401" />
+      <entry key="S60" value="1.0164294533546736" />
+      <entry key="M2" value="1.737880792933333" />
+      <entry key="M5" value="2.408561381647163" />
+      <entry key="M10" value="2.6875129655484744" />
+      <entry key="M15" value="2.788106352846547" />
+      <entry key="M30" value="3.0673052723551324" />
+      <entry key="H1" value="7.2150681202358244" />
+      <entry key="H2" value="28.298447731616683" />
+      <entry key="H4" value="80.68193614344659" />
+      <entry key="D1" value="251.39909640299922" />
+      <entry key="W1" value="313.11860835406554" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000000000142" />
-      <entry key="S60" value="1.0000003488267217" />
-      <entry key="M2" value="1.0024846895663806" />
-      <entry key="M5" value="1.7161954628911364" />
-      <entry key="M10" value="7.029549242258527" />
-      <entry key="M15" value="14.657002660372076" />
-      <entry key="M30" value="36.31078574444808" />
-      <entry key="H1" value="62.365924718547156" />
-      <entry key="H2" value="83.90389325866757" />
-      <entry key="H4" value="97.99766644153313" />
-      <entry key="D1" value="111.93722692476553" />
-      <entry key="W1" value="114.55645813264154" />
+      <entry key="MS100" value="1.0000000094962167" />
+      <entry key="MS500" value="1.024860515117341" />
+      <entry key="S2" value="1.3970795589107297" />
+      <entry key="S5" value="1.6911394268205941" />
+      <entry key="S10" value="1.8386346881976114" />
+      <entry key="S30" value="2.459327321582209" />
+      <entry key="S60" value="3.8555720803630766" />
+      <entry key="M2" value="5.7916462500227945" />
+      <entry key="M5" value="7.9095671472547515" />
+      <entry key="M10" value="8.870872646142068" />
+      <entry key="M15" value="9.227406815000528" />
+      <entry key="M30" value="9.725104679179362" />
+      <entry key="H1" value="12.884558307107417" />
+      <entry key="H2" value="28.40316414408802" />
+      <entry key="H4" value="66.10441560975207" />
+      <entry key="D1" value="185.9165892180571" />
+      <entry key="W1" value="228.76734213849625" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.0517578125000014E-5" />
-      <entry key="MS500" value="0.12499999999999997" />
-      <entry key="S2" value="0.5946035575013605" />
-      <entry key="S5" value="0.8122523963562355" />
-      <entry key="S10" value="0.9012504626108302" />
-      <entry key="S30" value="0.9659363289248626" />
-      <entry key="S60" value="0.9828210910109184" />
-      <entry key="M2" value="0.9951777598723408" />
-      <entry key="M5" value="2.2016192843202047" />
-      <entry key="M10" value="12.578930519404048" />
-      <entry key="M15" value="29.362488030481554" />
-      <entry key="M30" value="81.11755613794601" />
-      <entry key="H1" value="145.94615035208972" />
-      <entry key="H2" value="200.2187299755975" />
-      <entry key="H4" value="235.88426699079636" />
-      <entry key="D1" value="271.22781267293016" />
-      <entry key="W1" value="277.87433096376344" />
+      <entry key="MS100" value="1.5996013230696566E-4" />
+      <entry key="MS500" value="0.17461755717374725" />
+      <entry key="S2" value="0.796678484904" />
+      <entry key="S5" value="1.3087661556240953" />
+      <entry key="S10" value="1.6145063484131885" />
+      <entry key="S30" value="2.7065474357276518" />
+      <entry key="S60" value="4.7841861393412" />
+      <entry key="M2" value="7.462612312937634" />
+      <entry key="M5" value="10.281330687553092" />
+      <entry key="M10" value="11.537716679901997" />
+      <entry key="M15" value="12.00117288343158" />
+      <entry key="M30" value="12.784733168519422" />
+      <entry key="H1" value="20.09297838144036" />
+      <entry key="H2" value="56.690789566646274" />
+      <entry key="H4" value="146.7717058747471" />
+      <entry key="D1" value="437.3084333942239" />
+      <entry key="W1" value="541.8846717016718" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -88,6 +110,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3EZLGe6dojPHGFzsu4ei3M67V1h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,11 +124,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.OauthClientWithResourceServerApplication.executor": "Run",
     "Spring Boot.OauthResourceApplication.executor": "Run",
+    "Spring Boot.OauthUserApplication.executor": "Run",
     "Spring Boot.PureClientApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -119,11 +146,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.oauthuser.repository" />
+      <recent name="com.oauthuser.service" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/machine-to-machine" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.PureClientApplication">
+  <component name="RunManager" selected="Spring Boot.OauthUserApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="oauth2-with-keycloak" />
       <method v="2">
@@ -135,6 +166,20 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <configuration name="OauthClientWithResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="oauth-client-with-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oauthclientwithresourceserver.OauthClientWithResourceServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oauthclientwithresourceserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OauthResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
       <module name="oauth-resource" />
@@ -142,6 +187,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.oauthresource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="oauth-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oauthuser.OauthUserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oauthuser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,8 +224,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.PureClientApplication" />
+        <item itemvalue="Spring Boot.OauthUserApplication" />
+        <item itemvalue="Spring Boot.OauthClientWithResourceServerApplication" />
         <item itemvalue="Spring Boot.OauthResourceApplication" />
+        <item itemvalue="Spring Boot.PureClientApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -191,13 +252,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/oauth-client" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oauth-client-with-resource-server/src/main/java/com/oauthclientwithresourceserver/controller/ProxyController.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-oauth2-client/7.0.5/spring-security-oauth2-client-7.0.5-sources.jar!/org/springframework/security/oauth2/client/endpoint/AbstractRestClientOAuth2AccessTokenResponseClient.java</url>
           <line>99</line>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

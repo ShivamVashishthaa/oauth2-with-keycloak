@@ -7,7 +7,15 @@
         <option value="$PROJECT_DIR$/oauth-resource/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/machine-to-machine/pure-client/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-client-with-resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-with-pkce/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-user/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/oauth-with-pkce/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">

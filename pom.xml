@@ -19,6 +19,8 @@
     <modules>
         <module>oauth-client</module>
         <module>machine-to-machine</module>
+        <module>oauth-client-with-resource-server</module>
+        <module>oauth-user</module>
     </modules>
 
     <dependencyManagement>

@@ -1,8 +1,10 @@
 server:
-  port: 8083
+  port: 8081
+
 spring:
   application:
-    name: pure-client
+    name: oauth-client-with-resource-server
+
   security:
     oauth2:
       client:
@@ -16,9 +18,10 @@ spring:
         provider:
           keycloak-client:
             token-uri: http://localhost:8085/realms/oauth2/protocol/openid-connect/token
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8085/realms/oauth2
 
 resource:
   server:
     url: http://localhost:8082
-
-
